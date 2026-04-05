@@ -59,7 +59,7 @@ The project follows the standard ML workflow: data loading, statistical inspecti
 
 ## 2. Live Application
 
-**URL**: [https://housepriceprediction-4wbfw3nrz4xmswaqpclkyy.streamlit.app/](https://housepriceprediction-4wbfw3nrz4xmswaqpclkyy.streamlit.app/)
+**URL**: [https://housepriceprediction-uyw5rbwnmt97bnwbtcp8yc.streamlit.app/](https://housepriceprediction-uyw5rbwnmt97bnwbtcp8yc.streamlit.app/)
 
 The live application accepts property specifications through a structured form and returns an estimated market valuation in real time. The interface is designed to be usable without any knowledge of the underlying machine learning model.
 
