@@ -5,7 +5,7 @@
 
 ## 📌 Project Context
 
-This project is built as part of my **AI/ML learning journey** at [Prime Institute], fulfilling **Supervised ML Assignment 1** for *HomeVista Properties* — a fictional real estate firm looking to automate their house pricing process.
+This project is built as part of my **AI/ML learning journe* fulfilling **Supervised ML Assignment 1** for *HomeVista Properties* — a fictional real estate firm looking to automate their house pricing process.
 
 > **Role**: Machine Learning Engineer  
 > **Goal**: Build a Linear Regression model that predicts the market `SalePrice` of a house based on its features.
@@ -118,8 +118,7 @@ jupyter notebook
 
 ## 📚 References
 
-- Course Assignment: Supervised ML — Linear Regression (Prime Institute)
-- Reference Video: [Mastering House Price Predictions with ML](https://youtu.be/sbE1-7PqsCY?si=lOqx-_yANCU1BT0Q) by Priya Bhatia
+- Course Assignment: Supervised ML — Linear Regression
 - Dataset: Provided by course (HomeVista Properties scenario)
 
 ---
@@ -127,7 +126,7 @@ jupyter notebook
 ## 👩‍💻 Author
 
 **Karthika Krishna**  
-AI/ML Student | Aspiring Data Scientist  
+CSE Student | Aspiring Full Stack Developer Passionate in AI/ML
 [![GitHub](https://img.shields.io/badge/GitHub-KARTHIKAKRISHNA123-black?logo=github)](https://github.com/KARTHIKAKRISHNA123)
 
 ---
