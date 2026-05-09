@@ -1,5 +1,5 @@
-# HomeVista Predictor
-## AI-Powered Residential Property Valuation
+# Dwello
+## AI-Powered Residential Property Valuation and Price Prediction
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://housepricepredictiongit-8mdn7urrzjswzwhmgirivw.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
