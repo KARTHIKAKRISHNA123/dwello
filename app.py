@@ -108,8 +108,8 @@ lotconfig_map = {'Inside': 'Inside Lot', 'Corner': 'Corner Lot', 'CulDSac': 'Cul
 exterior1st_map = {'VinylSd': 'Vinyl Siding', 'MetalSd': 'Metal Siding', 'Wd Sdng': 'Wood Siding', 'HdBoard': 'Hard Board', 'BrkFace': 'Brick Face', 'WdShing': 'Wood Shingles', 'CemntBd': 'Cement Board', 'Plywood': 'Plywood', 'AsbShng': 'Asbestos Shingles', 'Stucco': 'Stucco', 'BrkComm': 'Brick Common', 'AsphShn': 'Asphalt Shingles', 'Stone': 'Stone', 'ImStucc': 'Imitation Stucco', 'CBlock': 'Cinder Block'}
 
 # 5. Build the UI
-st.markdown("<h1>HomeVista Predictor</h1>", unsafe_allow_html=True)
-st.markdown("<h3>Enter property specifications to generate an AI-driven valuation.</h3>", unsafe_allow_html=True)
+st.markdown("<h1>Dwello</h1>", unsafe_allow_html=True)
+st.markdown("<h3>Enter property specifications to generate an AI-driven Residual Property Valuation.</h3>", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
 col1, col2 = st.columns(2, gap="large")
