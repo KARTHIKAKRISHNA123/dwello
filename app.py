@@ -5,7 +5,7 @@ import time
 import datetime
 
 # 1. Page Configuration
-st.set_page_config(page_title="HomeVista Predictor", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Dwello", layout="wide", initial_sidebar_state="collapsed")
 
 # 2. Vercel Custom CSS & Animations
 vercel_style = """
